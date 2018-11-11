@@ -15,13 +15,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Quadratmeterzähler</title>
     <style>
-      body {
+      img {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+
+      }
+      #center {
         position: absolute;
         top: 50%;
         margin-top: -44px;
         width: 204px;
         right: 50%;
-        margin-right: -102px;
+        margin-right: -112px;
       }
 
       #squaremeters-value {
@@ -35,6 +43,7 @@
         background-color: #007031;
         display: block;
         margin-bottom: 0.25em;
+        width: 80%;
       }
 
       #squaremeters-power {
@@ -56,9 +65,10 @@
       #squaremeters-desc a {
         float: right;
       }
+
     </style>
     <script id="squaremeters-worker" type="javascript/worker">
-      var startTime = 1514764800; //seconds until 1.1.18 (unix time)
+      var startTime = 1541919600; //1514764800 = seconds until 1.1.18 (unix time)
       var currentTime = Date.now() / 1000 | 0; //seconds until now
       var rate = 0.8;
       var intervalSquaremeters = (1 / rate) * 100;
@@ -73,14 +83,16 @@
   </head>
 
   <body>
-
+    <div id="center">
     <div id="squaremeters-value">
       <span color="white" id="squaremeters-number">Bitte JavaScript aktivieren.</span>&nbsp;m<span id="squaremeters-power">2</span>
     </div>
     <div id="squaremeters-desc">
       <span>Grünflächen verbaut</span>
-      <br />seit dem 01.01.2018!<br />
+      <br />seit heut Morgen um 08:00 Uhr!<br />
     </div>
+  </div>
+<img src="Logo_Zersiedelung_Stoppen_de.png"/>
 
     <script>
       if (typeof(Worker) !== "undefined") { //If web Workers are Supported
