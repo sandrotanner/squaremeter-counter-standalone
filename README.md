@@ -17,7 +17,7 @@ Fast geschafft! Nun muss der Zähler nur noch auf dem Bildschirm angezeigt werde
 
 Dazu muss zuerst die Datei mit dem Namen _"squaremeter-counter-standalone.html"_ in einem Webbrowser geöffnet werden. Im Normalfall sollte dazu ein Doppelklick auf die Datei reichen. 
 
-**WICHTIG: Verwende nach möglichkeit entweder Mozilla Firefox oder Google Chrome für den Quadratmeterzähler. Auf anderen Webbrowsern könnte die Anzeige eventuell fehlerhaft sein.
+**WICHTIG: Verwende nach möglichkeit entweder Mozilla Firefox oder Google Chrome für den Quadratmeterzähler. Auf anderen Webbrowsern könnte die Anzeige eventuell fehlerhaft sein.**
 
 Wenn mit einem Doppelklick nicht ein Browserfenster aufgegangen ist gehst du so vor:
 * Rechtsklick auf die Datei, es erscheint ein kleines Menu
