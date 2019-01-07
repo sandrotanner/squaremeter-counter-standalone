@@ -2,11 +2,11 @@
 ## 0. Was du alles brauchst
 * Ein Laptop...
   * ...mit Netzteil oder 100% Akkuladung
-  * ...einem niemals Verdunkelndem Bildschirm
+  * ...einem niemals verdunkelndem Bildschirm
 * Internet (wird nurwährend der Vorbereitung benötigt)
 * (optional) Einen grossen Monitor + Anschlusskabel, falls du Strom hast.
 
-(das Ganze dauert ungefähr eine Minute)
+(das Einrichten des Zählers dauert ungefähr eine Minute)
 
 [Link zur alternativen Variante](#alternative-version-nicht-empfohlen) (Bitte nur verwenden, wenn du zu jeder Zeit Internet haben wirst auf deinem Anzeigegerät)
 ## 1. Herunterladen
@@ -22,7 +22,7 @@ Der heruntergeladene Zähler ist im .zip-Format und muss daher zuerst "entpackt"
 * Mache einen Rechtsklick auf die Datei. Es erscheint ein Menu bei der Maus.
 * Klicke auf die Option die ungefähr so heisst: _"Hier entpacken"_ oder _"Extract archive here"_ (je nach Betriebssystem heisst die Option nöglicherweise ein bisschen anders). 
 
-Nun hast du vier Zusätzliche Dateien im aktuellen Verzeichnis:
+Nun hast du vier zusätzliche Dateien im aktuellen Verzeichnis:
 
 ![Screenshot Files im Verzeichnis](http://xn--sndu-loa.ch/zersiedelung/anleitung2.png)
 
