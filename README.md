@@ -1,4 +1,11 @@
 # Anleitung für den Quadratmeterzähler
+## 0. Was du alles brauchst
+* Ein Laptop...
+  * ...mit Netzteil oder 100% Akkuladung
+  * ...einem niemals Verdunkelndem Bildschirm
+* Internet (wird nurwährend der Vorbereitung benötigt)
+* (optional) Einen grossen Monitor + Anschlusskabel, falls du Strom hast.
+
 (das Ganze dauert ungefähr eine Minute)
 
 [Link zur alternativen Variante](#alternative-version-nicht-empfohlen) (Bitte nur verwenden, wenn du zu jeder Zeit Internet haben wirst auf deinem Anzeigegerät)
