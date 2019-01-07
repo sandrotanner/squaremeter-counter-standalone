@@ -1,4 +1,5 @@
 # Anleitung für den Quadratmeterzähler
+(das Ganze dauert ungefähr eine Minute)
 ## 1. Herunterladen
 Zuerst solltest du den Zähler auf deinen Computer herunterladen.
 Klicke dazu oben rechts auf _"Clone or download"_ und dann im erscheinenden Fensterchen auf _"Download ZIP"_
