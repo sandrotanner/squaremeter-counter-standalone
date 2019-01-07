@@ -5,7 +5,9 @@
 ## 1. Herunterladen
 Zuerst solltest du den Zähler auf deinen Computer herunterladen.
 Klicke dazu oben rechts auf _"Clone or download"_ und dann im erscheinenden Fensterchen auf _"Download ZIP"_
-**TODO ADD Picture**
+
+![Screenshot Download](http://xn--sndu-loa.ch/zersiedelung/anleitung1.jpg)
+
 ## 2. Entpacken
 Der heruntergeladene Zähler ist im .zip-Format und muss daher zuerst "entpackt" werden. Das geht ganz einfach.
 * Gehe auf deinem Computer zu der heruntergeladenen Datei
@@ -14,7 +16,9 @@ Der heruntergeladene Zähler ist im .zip-Format und muss daher zuerst "entpackt"
 * Klicke auf die Option die ungefähr so heisst: _"Hier entpacken"_ oder _"Extract archive here"_ (je nach Betriebssystem heisst die Option nöglicherweise ein bisschen anders). 
 
 Nun hast du vier Zusätzliche Dateien im aktuellen Verzeichnis.
-**TODO ADD Picture**
+
+![Screenshot Files im Verzeichnis](http://xn--sndu-loa.ch/zersiedelung/anleitung2.png)
+
 ## 3. Den Zähler auf dem Bildschirm anzeigen
 Fast geschafft! Nun muss der Zähler nur noch auf dem Bildschirm angezeigt werden.
 
