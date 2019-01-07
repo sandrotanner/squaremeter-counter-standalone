@@ -40,5 +40,5 @@ Wenn mit einem Doppelklick nicht ein Browserfenster aufgegangen ist gehst du so 
 Um den Vollbildmodus wieder zu beenden, kannst du entwerden nochmals die _"F11-Taste"_ oder die _"ESC-Taste"_ ganz oben links auf der Tastatur verwenden.
 
 ## Alternative Version (nicht empfohlen)
-* Besuche diese Seite **TODO ADD Link** mit Mozilla Firefox oder Google Chrome.
+* Besuche [diese Seite](http://xn--sndu-loa.ch/ZI-Counter/) mit Mozilla Firefox oder Google Chrome.
 * Fahre weiter mit Punkt 3a) von obiger Anleitung.
