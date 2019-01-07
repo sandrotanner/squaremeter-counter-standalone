@@ -1,5 +1,6 @@
 # Anleitung für den Quadratmeterzähler
 (das Ganze dauert ungefähr eine Minute)
+[Alternative version, nur verwenden, wenn du zu jeder Zeit Internet haben wirst auf deinem Anzeigegerät](#alternative-version)
 ## 1. Herunterladen
 Zuerst solltest du den Zähler auf deinen Computer herunterladen.
 Klicke dazu oben rechts auf _"Clone or download"_ und dann im erscheinenden Fensterchen auf _"Download ZIP"_
@@ -32,3 +33,7 @@ Wenn mit einem Doppelklick nicht ein Browserfenster aufgegangen ist gehst du so 
 * **Fertig**
 
 Um den Vollbildmodus wieder zu beenden, kannst du entwerden nochmals die _"F11-Taste"_ oder die _"ESC-Taste"_ ganz oben links auf der Tastatur verwenden.
+
+## Alternative Version (nicht empfohlen)
+* Besuche diese Seite **TODO ADD Link** mit Mozilla Firefox oder Google Chrome.
+* Fahre weiter mit Punkt 3a) von obiger Anleitung.
