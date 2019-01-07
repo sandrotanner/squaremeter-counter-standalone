@@ -2,8 +2,9 @@
 ## 0. Was du alles brauchst
 * Ein Laptop...
   * ...mit Netzteil oder 100% Akkuladung
-  * ...einem niemals verdunkelndem Bildschirm
-* Internet (wird nurwährend der Vorbereitung benötigt)
+  * ...einem niemals verdunkelndem Bildschirm (wenn du nicht weisst wie das geht, hier eine Anleitung für [Windows](https://www.digitaltrends.com/computing/keep-pcs-screen-dimming/) und hier eine für [Mac](https://smallbusiness.chron.com/keep-screen-dimming-mac-31108.html))
+
+* Internet (wird nur während der Vorbereitung benötigt)
 * (optional) Einen grossen Monitor + Anschlusskabel, falls du Strom hast.
 
 (das Einrichten des Zählers dauert ungefähr eine Minute)
