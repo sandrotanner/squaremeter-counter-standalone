@@ -68,7 +68,11 @@
 
     </style>
     <script id="squaremeters-worker" type="javascript/worker">
-      var startTime = 1541919600; //1514764800 = seconds until 1.1.18 (unix time)
+      var now = new Date();
+      var startOfDay = new Date(now.getFullYear(), now.getMonth(), now.getDate()); //get Unixtime from this morning 00:00
+      startOfDay = startOfDay.setHours(startOfDay.getHours()+8); //add 8 hours
+      var startTime = startOfDay / 1000 | 0;
+      //var startTime = 1541919600; //1514764800 = seconds until 1.1.18 (unix time)
       var currentTime = Date.now() / 1000 | 0; //seconds until now
       var rate = 0.8;
       var intervalSquaremeters = (1 / rate) * 100;
